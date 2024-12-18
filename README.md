@@ -1,4 +1,4 @@
-# AI-chatbot
+
 # AI Chatbot
 
 A simple AI chatbot powered by **OpenAI's API**. This chatbot can respond to user queries and generate intelligent, context-aware responses.
